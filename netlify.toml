@@ -1,0 +1,9 @@
+[build]
+  publish = "."
+  functions = "netlify/functions"
+
+# Opcional: redirección genérica (si lo llegas a necesitar)
+# [[redirects]]
+#   from = "/*"
+#   to = "/index.html"
+#   status = 200
